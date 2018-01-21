@@ -414,6 +414,12 @@ engines:
     engine : mixcloud
     shortcut : mc
 
+  - name : noagenda
+    engine : noagenda
+    shortcut : na
+    paging: True
+    timeout: 5.0
+
   - name : nyaa
     engine : nyaa
     shortcut : nt
